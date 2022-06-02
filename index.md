@@ -15,7 +15,7 @@ I am a very curious person which is why I have even two main fields of interesst
 - 2016-2019: Master of Science; Computer science, Humboldt Universität zu Berlin; Thesis: _Empirical study about the influence of social dimensions on the SCHUFA-Score_
 - 2012-2016: Bachelor of Science; Media and computer science, Technische Universität Dresden; Thesis: _Benutzbarkeitskonzept für VPN-basierte Anonymisierung mobiler Geräte_
 
-<!-- For detailed information about my experience and skills see my CV (Link to CV pdf file). -->
+For detailed information about my experience and skills see my CV ([en](cv/en/cv_en.pdf), [de](cv/de/cv_de.pdf)). 
 
 <!--
 ## Work Samples
@@ -26,7 +26,7 @@ Description...
 
 * * *
 
-### Vizualization
+### Visualization
 ![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Description...
 
@@ -35,15 +35,23 @@ Description...
 -->
 
 <!-- 
+
+### HellSkate
+![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Description...
+
+* * *
+
 ### Conscious
 ![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Description...
 
 * * *
 
-### HellSkate
+### Conscious Game Content Tool
 ![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Description...
+
 -->
 
 ## Contact
