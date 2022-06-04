@@ -17,15 +17,28 @@ I am a very curious person which is why I have even two main fields of interesst
 
 For detailed information about my experience and skills see my CV ([en](cv/en/cv_en.pdf), [de](cv/de/cv_de.pdf)). 
 
-<!--
+
 ## Work Samples
 
-### Master Thesis
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Description...
+### Case study about the influence of social dimensions on solvency scores
+
+The result of this [project](https://waackph.github.io/solvency_scoring_social_bias_analysis/) is the master thesis
+[Empirical Study about the Influence of Social Dimensions on the SCHUFA-Score](resources/Empirical_Study_about_the_Influence_of_Social_Dimensions_on_the_SCHUFA-Score.pdf). The data set the analysis is based on is provided by the openSCHUFA project which consisted of the AlgorithmWatch Initiative and the Open Knowledge Foundation in 2018. A structured form of the data set for this thesis was provided by the data team of SPIEGEL Online.
+
+The goal of the study is to analyse the influence of selected social dimensions on the different versions of selected sector scores of the SCHUFA solvency score. This is meant to start a discussion on how algorithmic systems potentially take part in reproducing a disparate distribution of resources by explicitly using or implicitly reflecting social dimensions in the output they produce. What parts of it do we as a society accept and what needs to be taken into account by the constructors and users of such algorithms.
+
+In this project the discussion takes place along the case study of the SCHUFA solvency scores. 
+<img src="resources/lr_female_weight.png"  width="90%" style="display:block;margin:auto;">
+<br>
+Standardized coefficient of the linear regression of female feature per version of the bank and mail order sector score
+<br><br>
+
+A key result was the analysis of influences of the selected social dimensions of age, being female and being from historic east part of germany on selected sector SCHUFA scores banking and mail order w.r.t. all three versions of the scores. The figure is a summarizing but also simplifing result. It shows a small positive effect especially in the mail order score when being of female sex in the openSCHUFA data set. This effect reduces heavily with the score version. The analysis was conducted using a multivariate parameteric linear regression model and a non-parameteric gaussian processs model. Both have indicators concerning the influence of dimensions. The data set for each analysis was prepared using a matching algorithm to control for other possible predictive features.
+
+A main challenge of the project were the limitations of the data set with its many biases and the missing information of how the SCHUFA scores are actually build. Hence, the results can only be viewed in context of the analysed data set. Nevertheless, it provides interessting points that can be discussed further. More information can be found [here](https://waackph.github.io/solvency_scoring_social_bias_analysis/)
 
 * * *
-
+<!--
 ### Visualization
 ![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Description...
