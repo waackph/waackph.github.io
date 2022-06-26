@@ -41,9 +41,6 @@ A main challenge of the project were the limitations of the data set with its ma
 
 ### Corona Pandemic Visualization examples
 
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
 The [project](https://waackph.github.io/pandemic_visualizations/) is the result of some experimenting and exercise with data related to the corona pandemic. Data sets from different sources are used to analyse questions such as: What influence had the dominant covid variant on the number of covid cases?<br>
 First, a simple descriptive analysis has been done using a jupyter notebook in python. The resulting interactive versions of the plots are implemented with D3.js and Bootstrap.
 
