@@ -35,17 +35,26 @@ Standardized coefficient of the linear regression of female feature per version 
 
 A key result was the analysis of influences of the selected social dimensions of age, being female and being from historic east part of germany on selected sector SCHUFA scores banking and mail order w.r.t. all three versions of the scores. The figure is a summarizing but also simplifing result. It shows a small positive effect especially in the mail order score when being of female sex in the openSCHUFA data set. This effect reduces heavily with the score version. The analysis was conducted using a multivariate parameteric linear regression model and a non-parameteric gaussian processs model. Both have indicators concerning the influence of dimensions. The data set for each analysis was prepared using a matching algorithm to control for other possible predictive features.
 
-A main challenge of the project were the limitations of the data set with its many biases and the missing information of how the SCHUFA scores are actually build. Hence, the results can only be viewed in context of the analysed data set. Nevertheless, it provides interessting points that can be discussed further. More information can be found [here](https://waackph.github.io/solvency_scoring_social_bias_analysis/)
+A main challenge of the project were the limitations of the data set with its many biases and the missing information of how the SCHUFA scores are actually build. Hence, the results can only be viewed in context of the analysed data set. Nevertheless, it provides interessting points that can be discussed further. More information can be found [here](https://waackph.github.io/solvency_scoring_social_bias_analysis/).
 
 * * *
-<!--
-### Visualization
+
+### Corona Pandemic Visualization examples
+
 ![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Description...
+
+
+The [project](https://waackph.github.io/pandemic_visualizations/) is the result of some experimenting and exercise with data related to the corona pandemic. Data sets from different sources are used to analyse questions such as: What influence had the dominant covid variant on the number of covid cases?<br>
+First, a simple descriptive analysis has been done using a jupyter notebook in python. The resulting interactive versions of the plots are implemented with D3.js and Bootstrap.
+
+<br>
+<img src="resources/pandemic_vis_example.png"  width="90%" style="display:block;margin:auto;">
+<br>
+
+More information can be found [here](https://waackph.github.io/solvency_scoring_social_bias_analysis/).
 
 * * *
 
--->
 
 <!-- 
 
