@@ -48,7 +48,7 @@ First, a simple descriptive analysis has been done using a jupyter notebook in p
 <img src="resources/pandemic_vis_example.png"  width="90%" style="display:block;margin:auto;">
 <br>
 
-More information can be found [here](https://waackph.github.io/solvency_scoring_social_bias_analysis/).
+More information can be found [here](https://waackph.github.io/pandemic_visualizations/).
 
 * * *
 
