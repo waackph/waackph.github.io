@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I am Philipp. I am currently working as a developer with a interdisciplinary overlap between data ethics, data governance and data science.
+Hi, I am Philipp. I am currently working as a developer with an interdisciplinary overlap between data ethics, data governance and data science.
 
 I am a very curious person which is why I have even two main fields of interesst I love to work in:
 - Journalism: I am interested in journalism, especially the intersection of quantitative methods and visualization with qualitative journalistic storytelling.
@@ -25,7 +25,7 @@ For detailed information about my experience and skills see my CV ([en](cv/en/cv
 The result of this [project](https://waackph.github.io/solvency_scoring_social_bias_analysis/) is the master thesis
 [Empirical Study about the Influence of Social Dimensions on the SCHUFA-Score](resources/Empirical_Study_about_the_Influence_of_Social_Dimensions_on_the_SCHUFA-Score.pdf). The data set the analysis is based on is provided by the openSCHUFA project which consisted of the AlgorithmWatch Initiative and the Open Knowledge Foundation in 2018. A structured form of the data set for this thesis was provided by the data team of SPIEGEL Online.
 
-The goal of the study is to analyse the influence of selected social dimensions on the different versions of selected sector scores of the SCHUFA solvency score. This is meant to start a discussion on how algorithmic systems potentially take part in reproducing a disparate distribution of resources by explicitly using or implicitly reflecting social dimensions in the output they produce. What parts of it do we as a society accept and what needs to be taken into account by the constructors and users of such algorithms.
+The goal of the study is to analyse the influence of selected social dimensions on the different versions of selected sector scores of the SCHUFA solvency score. This is meant to start a discussion on how algorithmic systems potentially take part in reproducing a disparate distribution of resources by explicitly using or implicitly reflecting social dimensions in the output they produce. What parts of it do we as a society accept and what needs to be taken into account by the constructors and users of such algorithms?
 
 In this project the discussion takes place along the case study of the SCHUFA solvency scores. 
 <img src="resources/lr_female_weight.png"  width="90%" style="display:block;margin:auto;">
