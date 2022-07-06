@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.25)  6 JUN 2022 20:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.25)  7 JUL 2022 00:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -878,6 +878,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 32.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/lmss/bx/n/12 Abitur; All-ge-mei-ne Hoch-schul-rei-fe\T1/lmss/m/n/12 (+20
+) , \T1/lmss/m/sl/12 (+20) Gym-na-si-um Will-hö-den,
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 48--48
+[]\T1/lmss/m/n/10.95 (+20) Unterstützung und ei-gen-ver-ant-wort-li-che Durch-f
+üh-rung von Da-ten-ana-ly-sen
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 48--48
+\T1/lmss/m/n/10.95 (+20) und -modellen so-wie Um-set-zung von An-wen-dun-gen zu
+r Dar-stel-lung von
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -908,7 +926,7 @@ Package rerunfilecheck Info: File `cv_de.out' has not changed.
 Here is how much of TeX's memory you used:
  22893 strings out of 483089
  414183 string characters out of 5962867
- 716610 words of memory out of 5000000
+ 716608 words of memory out of 5000000
  37438 multiletter control sequences out of 15000+600000
  583393 words of font info for 76 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -920,7 +938,7 @@ c/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsso12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvos
 ym.pfb>
-Output written on cv_de.pdf (3 pages, 176160 bytes).
+Output written on cv_de.pdf (3 pages, 176305 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
