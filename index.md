@@ -6,8 +6,7 @@ Hi, I am Philipp. I am currently working as a developer with an interdisciplinar
 
 I am a very curious person which is why I have even two main fields of interesst I love to work in:
 - Journalism: I am interested in journalism, especially the intersection of quantitative methods and visualization with qualitative journalistic storytelling.
-- Video Games: My other big passion is developing video games, where many different art forms come together. 
-<!-- See show cases of games [here](https://itch.io/). -->
+- Video Games: My other big passion is developing video games, where many different art forms come together. See show cases of games [here](https://waackph.itch.io/).
 
 ## Career
 
@@ -20,7 +19,9 @@ For detailed information about my experience and skills see my CV ([en](cv/en/cv
 
 ## Work Samples
 
-### Case study about the influence of social dimensions on solvency scores
+### Data analysis and visualizations
+
+#### Case study about the influence of social dimensions on solvency scores
 
 The result of this [project](https://waackph.github.io/solvency_scoring_social_bias_analysis/) is the master thesis
 [Empirical Study about the Influence of Social Dimensions on the SCHUFA-Score](resources/Empirical_Study_about_the_Influence_of_Social_Dimensions_on_the_SCHUFA-Score.pdf). The data set the analysis is based on is provided by the openSCHUFA project which consisted of the AlgorithmWatch Initiative and the Open Knowledge Foundation in 2018. A structured form of the data set for this thesis was provided by the data team of SPIEGEL Online.
@@ -39,7 +40,7 @@ A main challenge of the project were the limitations of the data set with its ma
 
 * * *
 
-### Corona Pandemic Visualization examples
+#### Corona Pandemic Visualization examples
 
 The [project](https://waackph.github.io/pandemic_visualizations/) is the result of some experimenting and exercise with data related to the corona pandemic. Data sets from different sources are used to analyse questions such as: What influence had the dominant covid variant on the number of covid cases?<br>
 First, a simple descriptive analysis has been done using a jupyter notebook in python. The resulting interactive versions of the plots are implemented with D3.js and Bootstrap.
@@ -52,6 +53,34 @@ More information can be found [here](https://waackph.github.io/pandemic_visualiz
 
 * * *
 
+### Game Development
+
+#### Conscious Game Engine
+The conscious game engine consists of the game mechanics implementation which consistutes the [game engine backend](https://github.com/waackph/conscious-game) - created in Monogame C# framework - and the [content generation tool](https://github.com/waackph/Game-Content-Tool) - implemented as a web application with React.js as frontend, Express.js as backend and MongoDB as NoSQL database. See more information also on [itch.io](https://waackph.itch.io/conscious-content-tool).
+
+<br>
+<img src="resources/prototype_room_items_edit_screenshot.png"  width="90%" style="display:block;margin:auto;">
+<br>
+
+* * *
+
+#### Getting Up is Hard
+A small point-and-click prototype created with the conscious game engine, which is based on the Monogame C# Framework. See more information at [itch.io](https://waackph.itch.io/getting-up-is-hard).
+
+<br>
+<img src="resources/game_screenshot_laying_on_couch.png"  width="90%" style="display:block;margin:auto;">
+<br>
+
+* * *
+
+#### The Power Outage Incident
+A small text adventure prototype in plain C#. See more information at [itch.io](https://waackph.itch.io/the-power-outage-incident).
+
+<br>
+<img src="resources/game-start.png"  width="90%" style="display:block;margin:auto;">
+<br>
+
+* * *
 
 <!-- 
 
@@ -61,21 +90,10 @@ Description...
 
 * * *
 
-### Conscious
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Description...
-
-* * *
-
-### Conscious Game Content Tool
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Description...
-
 -->
 
 ## Contact
 
 - You can contact me via E-Mail: waackphilipp [at] gmail.com
 - My [GitHub Profile](https://github.com/waackph)
-<!-- - My [itch.io Profile](https://itch.io/) -->
-
+- My [itch.io Profile](https://waackph.itch.io/)
