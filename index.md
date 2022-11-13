@@ -82,14 +82,24 @@ A small text adventure prototype in plain C#. See more information at [itch.io](
 
 * * *
 
-<!-- 
+#### HellSkate
+A small text adventure prototype in plain C#. See more information at [itch.io](https://waackph.itch.io/hellskate).
 
-### HellSkate
-![image](https://github.githubassets.com/images/icons/emoji/octocat.png)
-Description...
+<br>
+<img src="resources/hellskate_start_street.png"  width="90%" style="display:block;margin:auto;">
+<br>
 
 * * *
 
+<!-- 
+#### Medieval Space Eel Collector
+A small text adventure prototype in plain C#. See more information at [itch.io](https://waackph.itch.io/medieval-space-eel-collector).
+
+<br>
+<img src="resources/msec_start_screen.png"  width="90%" style="display:block;margin:auto;">
+<br>
+
+* * *
 -->
 
 ## Contact
