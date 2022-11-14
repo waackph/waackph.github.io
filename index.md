@@ -83,7 +83,7 @@ A small text adventure prototype in plain C#. See more information at [itch.io](
 * * *
 
 #### HellSkate
-A small text adventure prototype in plain C#. See more information at [itch.io](https://waackph.itch.io/hellskate).
+A little prototype of a 2D arcade side-scroller game created with Unity. The player is a skater that has to ollie over or dodge obstacles on a three lane level.The goal is to reach the end of the level. See more information at [itch.io](https://waackph.itch.io/hellskate).
 
 <br>
 <img src="resources/hellskate_start_street.png"  width="90%" style="display:block;margin:auto;">
@@ -91,16 +91,15 @@ A small text adventure prototype in plain C#. See more information at [itch.io](
 
 * * *
 
-<!-- 
+
 #### Medieval Space Eel Collector
-A small text adventure prototype in plain C#. See more information at [itch.io](https://waackph.itch.io/medieval-space-eel-collector).
+A 3D side-scroller game resulted from the one-day Mini Jam Berlin in a team with three members. The player controls a medieval spaceship to reach the home planet. On the way, the player must avoid meteoroid flying around and collect electric eels, food, and engine parts. Those resources can be used or traded for health or morale. See more information at [itch.io](https://waackph.itch.io/medieval-space-eel-collector). See also the [GitHub project](https://github.com/GurLad/MedievalSpaceShips).
 
 <br>
 <img src="resources/msec_start_screen.png"  width="90%" style="display:block;margin:auto;">
 <br>
 
 * * *
--->
 
 ## Contact
 
