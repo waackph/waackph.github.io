@@ -93,7 +93,7 @@ A little prototype of a 2D arcade side-scroller game created with Unity. The pla
 
 
 #### Medieval Space Eel Collector
-A 3D side-scroller game resulted from the one-day Mini Jam Berlin in a team with three members. The player controls a medieval spaceship to reach the home planet. On the way, the player must avoid meteoroid flying around and collect electric eels, food, and engine parts. Those resources can be used or traded for health or morale. See more information at [itch.io](https://waackph.itch.io/medieval-space-eel-collector). See also the [GitHub project](https://github.com/GurLad/MedievalSpaceShips).
+A 3D side-scroller game resulted from the one-day Mini Jam Berlin in a team with four members. The player controls a medieval spaceship to reach the home planet. On the way, the player must avoid meteoroid flying around and collect electric eels, food, and engine parts. Those resources can be used or traded for health or morale. See more information at [itch.io](https://waackph.itch.io/medieval-space-eel-collector). See also the [GitHub project](https://github.com/GurLad/MedievalSpaceShips).
 
 <br>
 <img src="resources/msec_start_screen.png"  width="90%" style="display:block;margin:auto;">
