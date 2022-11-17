@@ -4,9 +4,10 @@
 
 Hi, I am Philipp. I am currently working as a developer with an interdisciplinary overlap between data ethics, data governance and data science.
 
-I am a very curious person which is why I have even two main fields of interesst I love to work in:
+I have multiple fields that I am interested in:
+- Data: I am interested in the use of data to create added value, taking into account data ethical aspects, such as transparency, and establishing governance framework for data and data processing.
 - Journalism: I am interested in journalism, especially the intersection of quantitative methods and visualization with qualitative journalistic storytelling.
-- Video Games: My other big passion is developing video games, where many different art forms come together. See show cases of games [here](https://waackph.itch.io/).
+- Video Games and interactive storytelling: Another big passion of mine is developing video games, where many different art forms come together. See show cases of games [here](https://waackph.itch.io/).
 
 ## Career
 
