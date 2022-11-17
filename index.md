@@ -11,7 +11,7 @@ I have multiple fields that I am interested in:
 
 ## Career
 
-- Currently: Developer at acs plus
+- Currently: Developer at acs plus in the role of a Data Governance Expert
 - 2016-2019: Master of Science; Computer science, Humboldt Universität zu Berlin; Thesis: _Empirical study about the influence of social dimensions on the SCHUFA-Score_
 - 2012-2016: Bachelor of Science; Media and computer science, Technische Universität Dresden; Thesis: _Benutzbarkeitskonzept für VPN-basierte Anonymisierung mobiler Geräte_
 
