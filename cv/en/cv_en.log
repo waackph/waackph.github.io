@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.25)  24 DEC 2022 09:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.6.3)  2 OCT 2023 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,6 +572,9 @@ LaTeX Info: Redefining \nameref on input line 21.
 \@outlinefile=\write3
 \openout3 = `cv_en.out'.
 
+\pagenumberwidth=\skip81
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 2
 8.
  (/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
@@ -611,40 +614,28 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 28.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 28.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 35.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 35.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
  (./cv_en.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
-
-
-Package rerunfilecheck Warning: File `cv_en.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv_en.out':
-(rerunfilecheck)             Before: C85909FF2E530536A094520806225105;845
-(rerunfilecheck)             After:  CE6A6FD2EFEA7F1A35586B333061AB74;772.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
+Package rerunfilecheck Info: File `cv_en.out' has not changed.
+(rerunfilecheck)             Checksum: CE6A6FD2EFEA7F1A35586B333061AB74;772.
  ) 
 Here is how much of TeX's memory you used:
- 14687 strings out of 483089
- 222295 string characters out of 5962867
- 515656 words of memory out of 5000000
+ 14689 strings out of 483089
+ 222319 string characters out of 5962869
+ 515655 words of memory out of 5000000
  29420 multiletter control sequences out of 15000+600000
- 587823 words of font info for 78 fonts, out of 8000000 for 9000
+ 587924 words of font info for 79 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 49i,11n,49p,771b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,49p,771b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontaweso
 me/fontawesometwo.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawe
@@ -653,10 +644,10 @@ hare/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmsso12.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on cv_en.pdf (4 pages, 215144 bytes).
+Output written on cv_en.pdf (4 pages, 215731 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 500000)
  19505 words of extra memory for PDF output out of 20736 (max. 10000000)
 
